@@ -26,11 +26,11 @@ PassengerId,Survived,Pclass,Name,Age,SibSp,Parch,Ticket,Fare,Sex_male,Embarked_Q
 25,0,3,"Palsson, Miss. Torborg Danira",-1.6416342675729512,3,1,349909,-0.22751750510240507,False,False,True
 26,1,3,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",0.6638610320657843,1,5,347077,0.1255453680621504,False,False,True
 27,0,3,"Emir, Mr. Farred Chehab",-0.10463740114712752,0,0,2631,-0.7016916426373474,True,False,False
-28,0,1,"Fortune, Mr. Charles Alexander",-0.7962859910387481,3,2,19950,2.8574307607150793,True,False,True
+28,0,1,"Fortune, Mr. Charles Alexander",-0.7962859910387481,3,2,19950,2.8881369597604487,True,False,True
 29,1,3,"O'Dwyer, Miss. Ellen ""Nellie""",-0.10463740114712752,0,0,330959,-0.6792941898737835,False,True,False
 30,0,3,"Todoroff, Mr. Lalio",-0.10463740114712752,0,0,349216,-0.678725865636738,True,False,True
 31,0,1,"Uruchurtu, Don. Manuel E",0.8175607187083667,0,0,PC 17601,1.0760834758870417e-05,True,False,False
-32,1,1,"Spencer, Mrs. William Augustus (Marie Eugenie)",-0.10463740114712752,1,0,PC 17569,2.8574307607150793,False,False,False
+32,1,1,"Spencer, Mrs. William Augustus (Marie Eugenie)",-0.10463740114712752,1,0,PC 17569,2.8881369597604487,False,False,False
 33,1,3,"Glynn, Miss. Mary Agatha",-0.10463740114712752,0,0,335677,-0.6837175327307882,False,True,False
 34,0,2,"Wheadon, Mr. Edward H",2.8156566450619374,0,0,C.A. 24579,-0.5895674332202401,True,False,True
 35,0,1,"Meyer, Mr. Edgar Joseph",-0.10463740114712752,1,0,PC 17604,1.8641827311436117,True,False,False
@@ -87,7 +87,7 @@ PassengerId,Survived,Pclass,Name,Age,SibSp,Parch,Ticket,Fare,Sex_male,Embarked_Q
 86,1,3,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",0.27961181545932834,3,0,3101278,-0.4064026941724465,False,False,True
 87,0,3,"Ford, Mr. William Neal",-1.0268355210026217,1,3,W./C. 6608,0.22782661253042769,True,False,True
 88,0,3,"Slocovski, Mr. Selman Francis",-0.10463740114712752,0,0,SOTON/OQ 392086,-0.6734466127841829,True,False,True
-89,1,1,"Fortune, Miss. Mabel Helen",-0.48888661775358344,3,2,19950,2.8574307607150793,False,False,True
+89,1,1,"Fortune, Miss. Mabel Helen",-0.48888661775358344,3,2,19950,2.8881369597604487,False,False,True
 90,0,3,"Celotti, Mr. Francesco",-0.41203677443229225,0,0,343275,-0.6734466127841829,True,False,True
 91,0,3,"Christmann, Mr. Emil",-0.027787557825836348,0,0,343276,-0.6734466127841829,True,False,True
 92,0,3,"Andreasson, Mr. Paul Edvin",-0.719436147717457,0,0,347466,-0.6801500998693341,True,False,True
@@ -117,7 +117,7 @@ PassengerId,Survived,Pclass,Name,Age,SibSp,Parch,Ticket,Fare,Sex_male,Embarked_Q
 116,0,3,"Pekoniemi, Mr. Edvard",-0.6425863043961658,0,0,STON/O 2. 3101294,-0.6777261627619351,True,False,True
 117,0,3,"Connors, Mr. Patrick",3.1614809400077477,0,0,370369,-0.6837175327307882,True,True,False
 118,0,2,"Turpin, Mr. William John Robert",-0.027787557825836348,1,0,11668,-0.23008523508905634,True,False,True
-119,0,1,"Baxter, Mr. Quigg Edmond",-0.41203677443229225,0,1,PC 17558,2.8574307607150793,True,False,False
+119,0,1,"Baxter, Mr. Quigg Edmond",-0.41203677443229225,0,1,PC 17558,2.8881369597604487,True,False,False
 120,0,3,"Andersson, Miss. Ellis Anna Maria",-2.1027333275006983,4,2,347082,0.1216937730821734,False,False,True
 121,0,2,"Hickman, Mr. Stanley George",-0.6425863043961658,2,0,S.O.C. 14879,1.5673257555668623,True,False,True
 122,0,3,"Moore, Mr. Leonard Charles",-0.10463740114712752,0,0,A4. 54510,-0.6734466127841829,True,False,True
@@ -194,7 +194,7 @@ PassengerId,Survived,Pclass,Name,Age,SibSp,Parch,Ticket,Fare,Sex_male,Embarked_Q
 193,1,3,"Andersen-Jensen, Miss. Carla Christine Nielsine",-0.7962859910387481,1,0,350046,-0.6801500998693341,False,False,True
 194,1,2,"Navratil, Master. Michel M",-2.025883484179407,1,1,230080,-0.05890323597896886,True,False,True
 195,1,1,"Brown, Mrs. James Joseph (Margaret Tobin)",1.1249600919935314,0,0,PC 17610,1.0760834758870417e-05,False,False,False
-196,1,1,"Lurette, Miss. Elise",2.200857898491608,0,0,PC 17569,2.8574307607150793,False,False,False
+196,1,1,"Lurette, Miss. Elise",2.200857898491608,0,0,PC 17569,2.8881369597604487,False,False,False
 197,0,3,"Mernagh, Mr. Robert",-0.10463740114712752,0,0,368703,-0.6837175327307882,True,True,False
 198,0,3,"Olsen, Mr. Karl Siegwart Andreas",0.9712604053509489,0,1,4579,-0.6613200799672244,True,False,True
 199,1,3,"Madigan, Miss. Margaret ""Maggie""",-0.10463740114712752,0,0,370370,-0.6837175327307882,False,True,False
@@ -214,7 +214,7 @@ PassengerId,Survived,Pclass,Name,Age,SibSp,Parch,Ticket,Fare,Sex_male,Embarked_Q
 213,0,3,"Perkin, Mr. John Henry",-0.5657364610748746,0,0,A/5 21174,-0.700835732641797,True,False,True
 214,0,2,"Givard, Mr. Hans Kristensen",0.04906228549545483,0,0,250646,-0.5039764336651963,True,False,True
 215,0,3,"Kiernan, Mr. Philip",-0.10463740114712752,1,0,367229,-0.6837175327307882,True,True,False
-216,1,1,"Newell, Miss. Madeleine",0.12591212881674602,1,0,35273,2.8574307607150793,False,False,False
+216,1,1,"Newell, Miss. Madeleine",0.12591212881674602,1,0,35273,2.8881369597604487,False,False,False
 217,1,3,"Honkanen, Miss. Eliina",-0.1814872444684187,0,0,STON/O2. 3101283,-0.6777261627619351,False,False,True
 218,0,2,"Jacobsohn, Mr. Sidney Samuel",0.9712604053509489,1,0,243847,-0.024666836156951363,True,False,True
 219,1,1,"Bazzani, Miss. Albina",0.20276197213803718,0,0,11813,1.6629035129499887,False,False,False
@@ -257,7 +257,7 @@ PassengerId,Survived,Pclass,Name,Age,SibSp,Parch,Ticket,Fare,Sex_male,Embarked_Q
 256,1,3,"Touma, Mrs. Darwis (Hanne Youssef Razi)",-0.027787557825836348,0,2,2650,-0.4270883269449095,False,False,False
 257,1,1,"Thorne, Mrs. Gertrude Maybelle",-0.10463740114712752,0,0,PC 17585,1.7624732345523622,False,False,False
 258,1,1,"Cherry, Miss. Gladys",0.04906228549545483,0,0,110152,2.01239895325309,False,False,True
-259,1,1,"Ward, Miss. Anna",0.4333115021019107,0,0,PC 17755,2.8574307607150793,False,False,False
+259,1,1,"Ward, Miss. Anna",0.4333115021019107,0,0,PC 17755,2.8881369597604487,False,False,False
 260,1,2,"Parrish, Mrs. (Lutie Davis)",1.5860591519212783,0,1,230433,-0.05890323597896886,False,False,True
 261,0,3,"Smith, Mr. Thomas",-0.10463740114712752,0,0,384461,-0.6837175327307882,True,True,False
 262,1,3,"Asplund, Master. Edvin Rojj Felix",-2.025883484179407,4,2,347077,0.1255453680621504,True,False,True
@@ -267,8 +267,8 @@ PassengerId,Survived,Pclass,Name,Age,SibSp,Parch,Ticket,Fare,Sex_male,Embarked_Q
 266,0,2,"Reeves, Mr. David",0.5101613454232019,0,0,C.A. 17248,-0.5895674332202401,True,False,True
 267,0,3,"Panula, Mr. Ernesti Arvid",-1.0268355210026217,4,1,3101295,0.40970748658489564,True,False,True
 268,1,3,"Persson, Mr. Ernst Ulrik",-0.33518693111100106,1,0,347083,-0.6828616227352379,True,False,True
-269,1,1,"Graham, Mrs. William Thompson (Edith Junkins)",2.200857898491608,0,1,PC 17582,2.8574307607150793,False,False,True
-270,1,1,"Bissette, Miss. Amelia",0.4333115021019107,0,0,PC 17760,2.8574307607150793,False,False,True
+269,1,1,"Graham, Mrs. William Thompson (Edith Junkins)",2.200857898491608,0,1,PC 17582,2.8881369597604487,False,False,True
+270,1,1,"Bissette, Miss. Amelia",0.4333115021019107,0,0,PC 17760,2.8881369597604487,False,False,True
 271,0,1,"Cairns, Mr. Alexander",-0.10463740114712752,0,0,113798,0.11227876313111863,True,False,True
 272,1,3,"Tornquist, Mr. William Henry",-0.33518693111100106,0,0,LINE,-0.9490496313514238,True,False,True
 273,1,2,"Mellinger, Mrs. (Elizabeth Anne Maidment)",0.8944105620296577,0,1,250644,-0.2814398348220826,False,False,True
@@ -296,51 +296,51 @@ PassengerId,Survived,Pclass,Name,Age,SibSp,Parch,Ticket,Fare,Sex_male,Embarked_Q
 295,0,3,"Mineff, Mr. Ivan",-0.41203677443229225,0,0,349233,-0.678725865636738,True,False,True
 296,0,1,"Lewy, Mr. Ervin G",-0.10463740114712752,0,0,PC 17612,1.0760834758870417e-05,True,False,False
 297,0,3,"Hanna, Mr. Mansour",-0.45046169609293785,0,0,2693,-0.7015478497580949,True,False,False
-298,0,1,"Allison, Miss. Helen Loraine",-2.1027333275006983,1,2,113781,2.8574307607150793,False,False,True
+298,0,1,"Allison, Miss. Helen Loraine",-2.1027333275006983,1,2,113781,2.8881369597604487,False,False,True
 299,1,1,"Saalfeld, Mr. Adolphe",-0.10463740114712752,0,0,19988,0.09516056322010988,True,False,True
-300,1,1,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",1.5860591519212783,0,1,PC 17558,2.8574307607150793,False,False,False
+300,1,1,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",1.5860591519212783,0,1,PC 17558,2.8881369597604487,False,False,False
 301,1,3,"Kelly, Miss. Anna Katherine ""Annie Kate""",-0.10463740114712752,0,0,9234,-0.6837175327307882,False,True,False
 302,1,3,"McCoy, Mr. Bernard",-0.10463740114712752,2,0,367226,-0.153053335489517,True,True,False
 303,0,3,"Johnson, Mr. William Cahoone Jr",-0.7962859910387481,0,0,LINE,-0.9490496313514238,True,False,True
 304,1,2,"Keane, Miss. Nora A",-0.10463740114712752,0,0,226593,-0.5262300935495078,False,True,False
 305,0,3,"Williams, Mr. Howard Hugh ""Harry""",-0.10463740114712752,0,0,A/5 2466,-0.6734466127841829,True,False,True
-306,1,1,"Allison, Master. Hudson Trevor",-2.1857311582876924,1,2,113781,2.8574307607150793,True,False,True
+306,1,1,"Allison, Master. Hudson Trevor",-2.1857311582876924,1,2,113781,2.8881369597604487,True,False,True
 307,1,1,"Fleming, Miss. Margaret",-0.10463740114712752,0,0,17421,2.847195361033289,False,False,False
 308,1,1,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",-0.9499856776813305,1,0,PC 17758,2.779294309266282,False,False,False
 309,0,2,"Abelson, Mr. Samuel",0.04906228549545483,1,0,P/PP 3381,-0.12737603562300387,True,False,False
 310,1,1,"Francatelli, Miss. Laura Mabel",0.04906228549545483,0,0,PC 17485,1.0000012213961749,False,False,False
 311,1,1,"Hays, Miss. Margaret Bechstein",-0.41203677443229225,0,0,11767,1.8979911759678538,False,False,False
-312,1,1,"Ryerson, Miss. Emily Borie",-0.8731358343600393,2,2,PC 17608,2.8574307607150793,False,False,False
+312,1,1,"Ryerson, Miss. Emily Borie",-0.8731358343600393,2,2,PC 17608,2.8881369597604487,False,False,False
 313,0,2,"Lahtinen, Mrs. William (Anna Sylfven)",-0.2583370877897099,1,1,250651,-0.05890323597896886,False,False,True
 314,0,3,"Hendekovic, Mr. Ignjac",-0.10463740114712752,0,0,349243,-0.678725865636738,True,False,True
 315,0,2,"Hart, Mr. Benjamin",1.0481102486722402,1,1,F.C.C. 13529,-0.050344136023464485,True,False,True
 316,1,3,"Nilsson, Miss. Helmina Josefina",-0.2583370877897099,0,0,347470,-0.6801500998693341,False,False,True
 317,1,2,"Kantor, Mrs. Sinai (Miriam Sternin)",-0.41203677443229225,1,0,244367,-0.05890323597896886,False,False,True
 318,0,2,"Moraweck, Dr. Ernest",1.893458525206443,0,0,29011,-0.46974003384317886,True,False,True
-319,1,1,"Wick, Miss. Mary Natalie",0.12591212881674602,0,2,36928,2.8574307607150793,False,False,True
-320,1,1,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",0.8175607187083667,1,1,16966,2.8574307607150793,False,False,False
+319,1,1,"Wick, Miss. Mary Natalie",0.12591212881674602,0,2,36928,2.8881369597604487,False,False,True
+320,1,1,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",0.8175607187083667,1,1,16966,2.8881369597604487,False,False,False
 321,0,3,"Dennis, Mr. Samuel",-0.5657364610748746,0,0,A/5 21172,-0.700835732641797,True,False,True
 322,0,3,"Danoff, Mr. Yoto",-0.1814872444684187,0,0,349219,-0.678725865636738,True,False,True
 323,1,2,"Slayter, Miss. Hilda Mary",0.04906228549545483,0,0,234818,-0.5262300935495078,False,True,False
 324,1,2,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",-0.5657364610748746,1,1,248738,0.043805963487083634,False,False,True
 325,0,3,"Sage, Mr. George John Jr",-0.10463740114712752,8,2,CA. 2343,1.4320919762698932,True,False,True
-326,1,1,"Young, Miss. Marie Grice",0.5101613454232019,0,0,PC 17760,2.8574307607150793,False,False,False
+326,1,1,"Young, Miss. Marie Grice",0.5101613454232019,0,0,PC 17760,2.8881369597604487,False,False,False
 327,0,3,"Nysveen, Mr. Johan Hansen",2.4314074284554814,0,0,345364,-0.7355000874615897,True,False,True
 328,1,2,"Ball, Mrs. (Ada E Hall)",0.5101613454232019,0,0,28551,-0.5039764336651963,False,False,True
 329,1,3,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",0.12591212881674602,1,1,363291,-0.2463475250045147,False,False,True
 330,1,1,"Hippach, Miss. Jean Gertrude",-1.0268355210026217,0,1,111361,1.035949441209293,False,False,False
 331,1,3,"McCoy, Miss. Agnes",-0.10463740114712752,2,0,367226,-0.153053335489517,False,True,False
 332,0,1,"Partner, Mr. Austen",1.2402348569754682,0,0,113043,0.026687763576074885,True,False,True
-333,0,1,"Graham, Mr. George Edward",0.6638610320657843,0,1,PC 17582,2.8574307607150793,True,False,True
+333,0,1,"Graham, Mr. George Edward",0.6638610320657843,0,1,PC 17582,2.8881369597604487,True,False,True
 334,0,3,"Vander Planke, Mr. Leo Edmondus",-1.0268355210026217,2,0,345764,-0.3327944345551089,True,False,True
-335,1,1,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",-0.10463740114712752,1,0,PC 17611,2.8574307607150793,False,False,True
+335,1,1,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",-0.10463740114712752,1,0,PC 17611,2.8881369597604487,False,False,True
 336,0,3,"Denkoff, Mr. Mitto",-0.10463740114712752,0,0,349225,-0.678725865636738,True,False,True
 337,0,1,"Pears, Mr. Thomas Clinton",-0.027787557825836348,1,0,113776,1.3310945967949415,True,False,True
-338,1,1,"Burns, Miss. Elizabeth Margaret",0.8944105620296577,0,0,16966,2.8574307607150793,False,False,False
+338,1,1,"Burns, Miss. Elizabeth Margaret",0.8944105620296577,0,0,16966,2.8881369597604487,False,False,False
 339,1,3,"Dahl, Mr. Karl Edwart",1.2018099353148226,0,0,7598,-0.6734466127841829,True,False,True
 340,0,1,"Blackwell, Mr. Stephen Weart",1.2018099353148226,0,0,113784,0.2663425623301974,True,False,True
 341,1,2,"Navratil, Master. Edmond Roger",-2.1027333275006983,1,1,230080,-0.05890323597896886,True,False,True
-342,1,1,"Fortune, Miss. Alice Elizabeth",-0.41203677443229225,3,2,19950,2.8574307607150793,False,False,True
+342,1,1,"Fortune, Miss. Alice Elizabeth",-0.41203677443229225,3,2,19950,2.8881369597604487,False,False,True
 343,0,2,"Collander, Mr. Erik Gustaf",-0.10463740114712752,0,0,248740,-0.5039764336651963,True,False,True
 344,0,2,"Sedgwick, Mr. Charles Frederick Waddington",-0.33518693111100106,0,0,244361,-0.5039764336651963,True,False,True
 345,0,2,"Fox, Mr. Stanley Hubert",0.5101613454232019,0,0,229236,-0.5039764336651963,True,False,True
@@ -372,14 +372,14 @@ PassengerId,Survived,Pclass,Name,Age,SibSp,Parch,Ticket,Fare,Sex_male,Embarked_Q
 371,1,1,"Harder, Mr. George Achilles",-0.33518693111100106,1,0,11765,0.9490745766609237,True,False,False
 372,0,3,"Wiklund, Mr. Jakob Alfred",-0.8731358343600393,1,0,3101267,-0.7266568253875626,True,False,True
 373,0,3,"Beavan, Mr. William Thomas",-0.7962859910387481,0,0,323951,-0.6734466127841829,True,False,True
-374,0,1,"Ringhini, Mr. Sante",-0.5657364610748746,0,0,PC 17760,2.8574307607150793,True,False,False
+374,0,1,"Ringhini, Mr. Sante",-0.5657364610748746,0,0,PC 17760,2.8881369597604487,True,False,False
 375,0,3,"Palsson, Miss. Stina Viola",-2.025883484179407,3,1,349909,-0.22751750510240507,False,False,True
 376,1,1,"Meyer, Mrs. Edgar Joseph (Leila Saks)",-0.10463740114712752,1,0,PC 17604,1.8641827311436117,False,False,False
 377,1,3,"Landergren, Miss. Aurora Adelia",-0.5657364610748746,0,0,C 7077,-0.700835732641797,False,False,True
-378,0,1,"Widener, Mr. Harry Elkins",-0.1814872444684187,0,2,113503,2.8574307607150793,True,False,False
+378,0,1,"Widener, Mr. Harry Elkins",-0.1814872444684187,0,2,113503,2.8881369597604487,True,False,False
 379,0,3,"Betros, Mr. Tannous",-0.719436147717457,0,0,2648,-0.8116760770655786,True,False,False
 380,0,3,"Gustafsson, Mr. Karl Gideon",-0.7962859910387481,0,0,347069,-0.6828616227352379,True,False,True
-381,1,1,"Bidois, Miss. Rosalie",0.9712604053509489,0,0,PC 17757,2.8574307607150793,False,False,False
+381,1,1,"Bidois, Miss. Rosalie",0.9712604053509489,0,0,PC 17757,2.8881369597604487,False,False,False
 382,1,3,"Nakid, Miss. Maria (""Mary"")",-2.1795831708219895,0,2,2653,-0.410110496273171,False,False,False
 383,0,3,"Tikkanen, Mr. Juho",0.20276197213803718,0,0,STON/O 2. 3101293,-0.6777261627619351,True,False,True
 384,1,1,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",0.4333115021019107,1,0,113789,0.8312431593934861,False,False,True
@@ -389,10 +389,10 @@ PassengerId,Survived,Pclass,Name,Age,SibSp,Parch,Ticket,Fare,Sex_male,Embarked_Q
 388,1,2,"Buss, Miss. Kate",0.5101613454232019,0,0,27849,-0.5039764336651963,False,False,True
 389,0,3,"Sadlier, Mr. Matthew",-0.10463740114712752,0,0,367655,-0.6844296498470862,True,True,False
 390,1,2,"Lehmann, Miss. Bertha",-0.9499856776813305,0,0,SC 1748,-0.5382128334872138,False,False,False
-391,1,1,"Carter, Mr. William Ernest",0.5101613454232019,1,2,113760,2.8574307607150793,True,False,True
+391,1,1,"Carter, Mr. William Ernest",0.5101613454232019,1,2,113760,2.8881369597604487,True,False,True
 392,1,3,"Jansson, Mr. Carl Olof",-0.6425863043961658,0,0,350034,-0.6821495056189398,True,False,True
 393,0,3,"Gustafsson, Mr. Johan Birger",-0.10463740114712752,2,0,3101277,-0.6777261627619351,True,False,True
-394,1,1,"Newell, Miss. Marjorie",-0.48888661775358344,1,0,35273,2.8574307607150793,False,False,False
+394,1,1,"Newell, Miss. Marjorie",-0.48888661775358344,1,0,35273,2.8881369597604487,False,False,False
 395,1,3,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",-0.41203677443229225,0,2,PP 9549,-0.37730175432373164,False,False,True
 396,0,3,"Johansson, Mr. Erik",-0.5657364610748746,0,0,350052,-0.6821495056189398,True,False,True
 397,0,3,"Olsson, Miss. Elina",0.12591212881674602,0,0,350407,-0.6801500998693341,False,False,True
@@ -434,10 +434,10 @@ PassengerId,Survived,Pclass,Name,Age,SibSp,Parch,Ticket,Fare,Sex_male,Embarked_Q
 433,1,2,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",0.9712604053509489,1,0,SC/AH 3085,-0.05890323597896886,False,False,True
 434,0,3,"Kallio, Mr. Nikolai Erland",-0.9499856776813305,0,0,STON/O 2. 3101274,-0.7051152826195491,True,False,True
 435,0,1,"Silvey, Mr. William Baird",1.5860591519212783,1,0,13507,0.9647651186993543,True,False,True
-436,1,1,"Carter, Miss. Lucile Polk",-1.180535207645204,1,2,113760,2.8574307607150793,False,False,True
+436,1,1,"Carter, Miss. Lucile Polk",-1.180535207645204,1,2,113760,2.8881369597604487,False,False,True
 437,0,3,"Ford, Miss. Doolina Margaret ""Daisy""",-0.6425863043961658,2,2,W./C. 6608,0.22782661253042769,False,False,True
 438,1,2,"Richards, Mrs. Sidney (Emily Hocking)",-0.41203677443229225,2,3,29106,-0.30711713468859575,False,False,True
-439,0,1,"Fortune, Mr. Mark",2.661956958419355,1,4,19950,2.8574307607150793,True,False,True
+439,0,1,"Fortune, Mr. Mark",2.661956958419355,1,4,19950,2.8881369597604487,True,False,True
 440,0,2,"Kvillner, Mr. Johan Henrik Johannesson",0.12591212881674602,0,0,C.A. 18723,-0.5895674332202401,True,False,True
 441,1,2,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",1.2018099353148226,1,1,F.C.C. 13529,-0.050344136023464485,False,False,True
 442,0,3,"Hampe, Mr. Leon",-0.719436147717457,0,0,345769,-0.6238038330422576,True,False,True
@@ -497,7 +497,7 @@ PassengerId,Survived,Pclass,Name,Age,SibSp,Parch,Ticket,Fare,Sex_male,Embarked_Q
 496,0,3,"Yousseff, Mr. Gerious",-0.10463740114712752,0,0,2627,-0.45404949180474824,True,False,False
 497,1,1,"Eustis, Miss. Elizabeth Mussey",1.893458525206443,1,0,36947,1.730520402598473,False,False,False
 498,0,3,"Shellard, Mr. Frederick William",-0.10463740114712752,0,0,C.A. 6212,-0.43207999403895964,True,False,True
-499,0,1,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",-0.33518693111100106,1,2,113781,2.8574307607150793,False,False,True
+499,0,1,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",-0.33518693111100106,1,2,113781,2.8881369597604487,False,False,True
 500,0,3,"Svensson, Mr. Olof",-0.41203677443229225,0,0,350035,-0.6821495056189398,True,False,True
 501,0,3,"Calic, Mr. Petar",-0.9499856776813305,0,0,315086,-0.6524768178931972,True,False,True
 502,0,3,"Canavan, Miss. Mary",-0.6425863043961658,0,0,364846,-0.6837175327307882,False,True,False
@@ -526,7 +526,7 @@ PassengerId,Survived,Pclass,Name,Age,SibSp,Parch,Ticket,Fare,Sex_male,Embarked_Q
 525,0,3,"Kassem, Mr. Fared",-0.10463740114712752,0,0,2700,-0.7015478497580949,True,False,False
 526,0,3,"Farrell, Mr. James",0.8559856403690123,0,0,367232,-0.6837175327307882,True,True,False
 527,1,2,"Ridsdale, Miss. Lucy",1.5860591519212783,0,0,W./C. 14258,-0.5895674332202401,False,False,True
-528,0,1,"Farthing, Mr. John",-0.10463740114712752,0,0,PC 17483,2.8574307607150793,True,False,True
+528,0,1,"Farthing, Mr. John",-0.10463740114712752,0,0,PC 17483,2.8881369597604487,True,False,True
 529,0,3,"Salonen, Mr. Johan Werner",0.7407108753870755,0,0,3101296,-0.6777261627619351,True,False,True
 530,0,2,"Hocking, Mr. Richard George",-0.48888661775358344,2,1,29104,-0.5553310333982225,True,False,True
 531,1,2,"Quick, Miss. Phyllis May",-2.1027333275006983,1,1,26360,-0.05890323597896886,False,False,True
@@ -556,7 +556,7 @@ PassengerId,Survived,Pclass,Name,Age,SibSp,Parch,Ticket,Fare,Sex_male,Embarked_Q
 555,1,3,"Ohman, Miss. Velin",-0.5657364610748746,0,0,347085,-0.6828616227352379,False,False,True
 556,0,1,"Wright, Mr. George",2.5082572717767726,0,0,113807,-0.04007321607685921,True,False,True
 557,1,1,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",1.432359465278696,1,0,11755,0.40671180160046916,False,False,False
-558,0,1,"Robbins, Mr. Victor",-0.10463740114712752,0,0,PC 17757,2.8574307607150793,True,False,False
+558,0,1,"Robbins, Mr. Victor",-0.10463740114712752,0,0,PC 17757,2.8881369597604487,True,False,False
 559,1,1,"Taussig, Mrs. Emil (Tillie Mandelbaum)",0.7407108753870755,1,1,110413,1.7778796144722702,False,False,True
 560,1,3,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",0.5101613454232019,1,0,345572,-0.3533362744483194,False,False,True
 561,0,3,"Morrow, Mr. Thomas Rowan",-0.10463740114712752,0,0,372622,-0.6837175327307882,True,True,False
@@ -608,7 +608,7 @@ PassengerId,Survived,Pclass,Name,Age,SibSp,Parch,Ticket,Fare,Sex_male,Embarked_Q
 607,0,3,"Karaic, Mr. Milan",0.04906228549545483,0,0,349246,-0.678725865636738,True,False,True
 608,1,1,"Daniel, Mr. Robert Williams",-0.1814872444684187,0,0,113804,0.09516056322010988,True,False,True
 609,1,2,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",-0.5657364610748746,1,2,SC/Paris 2123,0.47447248412820614,False,False,False
-610,1,1,"Shutes, Miss. Elizabeth W",0.8175607187083667,0,0,PC 17582,2.8574307607150793,False,False,True
+610,1,1,"Shutes, Miss. Elizabeth W",0.8175607187083667,0,0,PC 17582,2.8881369597604487,False,False,True
 611,0,3,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",0.7407108753870755,1,5,347082,0.1216937730821734,False,False,True
 612,0,3,"Jardin, Mr. Jose Neto",-0.10463740114712752,0,0,SOTON/O.Q. 3101305,-0.7076830126062005,True,False,True
 613,1,3,"Murphy, Miss. Margaret Jane",-0.10463740114712752,1,0,367230,-0.4183854341101526,False,True,False
@@ -658,8 +658,8 @@ PassengerId,Survived,Pclass,Name,Age,SibSp,Parch,Ticket,Fare,Sex_male,Embarked_Q
 657,0,3,"Radeff, Mr. Alexander",-0.10463740114712752,0,0,349223,-0.678725865636738,True,False,True
 658,0,3,"Bourke, Mrs. John (Catherine)",0.20276197213803718,1,1,364849,-0.4183854341101526,False,True,False
 659,0,2,"Eitemiller, Mr. George Floyd",-0.48888661775358344,0,0,29751,-0.5039764336651963,True,False,True
-660,0,1,"Newell, Mr. Arthur Webster",2.200857898491608,0,2,35273,2.8574307607150793,True,False,False
-661,1,1,"Frauenthal, Dr. Henry William",1.5860591519212783,2,0,PC 17611,2.8574307607150793,True,False,True
+660,0,1,"Newell, Mr. Arthur Webster",2.200857898491608,0,2,35273,2.8881369597604487,True,False,False
+661,1,1,"Frauenthal, Dr. Henry William",1.5860591519212783,2,0,PC 17611,2.8881369597604487,True,False,True
 662,0,3,"Badt, Mr. Mohamed",0.8175607187083667,0,0,2623,-0.7016916426373474,True,False,False
 663,0,1,"Colley, Mr. Edward Pomeroy",1.3555096219574048,0,0,5727,-0.07302575090555112,True,False,True
 664,0,3,"Coleff, Mr. Peju",0.5101613454232019,0,0,349210,-0.6924204255655451,True,False,True
@@ -678,7 +678,7 @@ PassengerId,Survived,Pclass,Name,Age,SibSp,Parch,Ticket,Fare,Sex_male,Embarked_Q
 677,0,3,"Sawyer, Mr. Frederick Charles",-0.37361185277164666,0,0,342826,-0.6734466127841829,True,False,True
 678,1,3,"Turja, Miss. Anna Sofia",-0.8731358343600393,0,0,4138,-0.6121052552230742,False,False,True
 679,0,3,"Goodwin, Mrs. Frederick (Augusta Tyler)",1.0481102486722402,1,6,CA 2144,0.6566375203011968,False,False,True
-680,1,1,"Cardeza, Mr. Thomas Drake Martinez",0.5101613454232019,0,1,PC 17755,2.8574307607150793,True,False,False
+680,1,1,"Cardeza, Mr. Thomas Drake Martinez",0.5101613454232019,0,1,PC 17755,2.8881369597604487,True,False,False
 681,0,3,"Peters, Miss. Katie",-0.10463740114712752,0,0,330935,-0.6704509277997565,False,True,False
 682,1,1,"Hassab, Mr. Hammad",-0.1814872444684187,0,0,PC 17572,1.6778819378721215,True,False,False
 683,0,3,"Olsvigen, Mr. Thor Anderson",-0.719436147717457,0,0,6563,-0.6332188429933123,True,False,True
@@ -688,7 +688,7 @@ PassengerId,Survived,Pclass,Name,Age,SibSp,Parch,Ticket,Fare,Sex_male,Embarked_Q
 687,0,3,"Panula, Mr. Jaako Arnold",-1.180535207645204,4,1,3101295,0.40970748658489564,True,False,True
 688,0,3,"Dakic, Mr. Branko",-0.7962859910387481,0,0,349228,-0.6008380560416483,True,False,True
 689,0,3,"Fischer, Mr. Eberhard Thelander",-0.8731358343600393,0,0,350036,-0.6821495056189398,True,False,True
-690,1,1,"Madill, Miss. Georgette Alexandra",-1.1036853643239128,0,1,24160,2.8574307607150793,False,False,True
+690,1,1,"Madill, Miss. Georgette Alexandra",-1.1036853643239128,0,1,24160,2.8881369597604487,False,False,True
 691,1,1,"Dick, Mr. Albert Adrian",0.12591212881674602,1,0,17474,1.0024251585035735,True,False,True
 692,1,3,"Karun, Miss. Manca",-1.949033640858116,0,1,349256,-0.48971012585936163,False,False,False
 693,1,3,"Lam, Mr. Ali",-0.10463740114712752,0,0,1601,0.9851631657133124,True,False,True
@@ -699,7 +699,7 @@ PassengerId,Survived,Pclass,Name,Age,SibSp,Parch,Ticket,Fare,Sex_male,Embarked_Q
 698,1,3,"Mullens, Miss. Katherine ""Katie""",-0.10463740114712752,0,0,35852,-0.6842892806078159,False,True,False
 699,0,1,"Thayer, Mr. John Borland",1.5092093085999871,1,1,17421,2.847195361033289,True,False,False
 700,0,3,"Humblen, Mr. Adolf Mathias Nicolai Olsen",0.9712604053509489,0,0,348121,-0.68714117271299,True,False,True
-701,1,1,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",-0.8731358343600393,1,0,PC 17757,2.8574307607150793,False,False,False
+701,1,1,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",-0.8731358343600393,1,0,PC 17757,2.8881369597604487,False,False,False
 702,1,1,"Silverthorne, Mr. Spencer Victor",0.4333115021019107,0,0,PC 17475,-0.04906027103013878,True,False,True
 703,0,3,"Barbara, Miss. Saiide",-0.8731358343600393,0,1,2691,-0.4541898610440185,False,False,False
 704,0,3,"Gallagher, Mr. Martin",-0.33518693111100106,0,0,36864,-0.684001694849311,True,True,False
@@ -707,7 +707,7 @@ PassengerId,Survived,Pclass,Name,Age,SibSp,Parch,Ticket,Fare,Sex_male,Embarked_Q
 706,0,2,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",0.7407108753870755,0,0,250655,-0.05890323597896886,True,False,True
 707,1,2,"Kelly, Mrs. Florence ""Fannie""",1.2018099353148226,0,0,223596,-0.4868582337541876,False,False,True
 708,1,1,"Calderhead, Mr. Edward Pennington",0.9712604053509489,0,0,PC 17476,-0.04906027103013878,True,False,True
-709,1,1,"Cleaver, Miss. Alice",-0.5657364610748746,0,0,113781,2.8574307607150793,False,False,True
+709,1,1,"Cleaver, Miss. Alice",-0.5657364610748746,0,0,113781,2.8881369597604487,False,False,True
 710,1,3,"Moubarek, Master. Halim Gonios (""William George"")",-0.10463740114712752,1,1,2661,-0.4270883269449095,True,False,False
 711,1,1,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",-0.41203677443229225,0,0,PC 17482,0.7457959527176947,False,False,False
 712,0,1,"Klaber, Mr. Herman",-0.10463740114712752,0,0,113028,-0.04007321607685921,True,False,True
@@ -715,7 +715,7 @@ PassengerId,Survived,Pclass,Name,Age,SibSp,Parch,Ticket,Fare,Sex_male,Embarked_Q
 714,0,3,"Larsson, Mr. August Viktor",-0.027787557825836348,0,0,7545,-0.6243755809192852,True,False,True
 715,0,2,"Greenberg, Mr. Samuel",1.7397588385638607,0,0,250647,-0.5039764336651963,True,False,True
 716,0,3,"Soholt, Mr. Peter Andreas Lauritz Andersen",-0.7962859910387481,0,0,348124,-0.68714117271299,True,False,True
-717,1,1,"Endres, Miss. Caroline Louise",0.6638610320657843,0,0,PC 17757,2.8574307607150793,False,False,False
+717,1,1,"Endres, Miss. Caroline Louise",0.6638610320657843,0,0,PC 17757,2.8881369597604487,False,False,False
 718,1,2,"Troutt, Miss. Edwina Celia ""Winnie""",-0.1814872444684187,0,0,34218,-0.5895674332202401,False,False,True
 719,0,3,"McEvoy, Mr. Michael",-0.10463740114712752,0,0,36568,-0.4183854341101526,True,True,False
 720,0,3,"Johnson, Mr. Malkolm Joackim",0.27961181545932834,0,0,347062,-0.6828616227352379,True,False,True
@@ -729,19 +729,19 @@ PassengerId,Survived,Pclass,Name,Age,SibSp,Parch,Ticket,Fare,Sex_male,Embarked_Q
 728,1,3,"Mannion, Miss. Margareth",-0.10463740114712752,0,0,36866,-0.6841454877285634,False,True,False
 729,0,2,"Bryhl, Mr. Kurt Arnold Gottfrid",-0.33518693111100106,1,0,236853,-0.05890323597896886,True,False,True
 730,0,3,"Ilmakangas, Miss. Pieta Sofia",-0.33518693111100106,1,0,STON/O2. 3101271,-0.6777261627619351,False,False,True
-731,1,1,"Allen, Miss. Elisabeth Walton",-0.027787557825836348,0,0,24160,2.8574307607150793,False,False,True
+731,1,1,"Allen, Miss. Elisabeth Walton",-0.027787557825836348,0,0,24160,2.8881369597604487,False,False,True
 732,0,3,"Hassan, Mr. Houssein G N",-1.4110847376090776,0,0,2699,-0.30583326969527,True,False,False
 733,0,2,"Knight, Mr. Robert J",-0.10463740114712752,0,0,239855,-0.9490496313514238,True,False,True
 734,0,2,"Berriman, Mr. William John",-0.48888661775358344,0,0,28425,-0.5039764336651963,True,False,True
 735,0,2,"Troupiansky, Mr. Moses Aaron",-0.48888661775358344,0,0,233639,-0.5039764336651963,True,False,True
 736,0,3,"Williams, Mr. Leslie",-0.06621247948648194,0,0,54636,-0.39784359421694204,True,False,True
 737,0,3,"Ford, Mrs. Edward (Margaret Ann Watson)",1.432359465278696,1,3,W./C. 6608,0.22782661253042769,False,False,True
-738,1,1,"Lesurer, Mr. Gustave J",0.4333115021019107,0,0,PC 17755,2.8574307607150793,True,False,False
+738,1,1,"Lesurer, Mr. Gustave J",0.4333115021019107,0,0,PC 17755,2.8881369597604487,True,False,False
 739,0,3,"Ivanoff, Mr. Kanio",-0.10463740114712752,0,0,349201,-0.678725865636738,True,False,True
 740,0,3,"Nankoff, Mr. Minko",-0.10463740114712752,0,0,349218,-0.678725865636738,True,False,True
 741,1,1,"Hawksford, Mr. Walter James",-0.10463740114712752,0,0,16988,0.07804236330910114,True,False,True
 742,0,1,"Cavendish, Mr. Tyrell William",0.5101613454232019,1,0,19877,1.7504904946146558,True,False,True
-743,1,1,"Ryerson, Miss. Susan Parker ""Suzette""",-0.6425863043961658,2,2,PC 17608,2.8574307607150793,False,False,False
+743,1,1,"Ryerson, Miss. Susan Parker ""Suzette""",-0.6425863043961658,2,2,PC 17608,2.8881369597604487,False,False,False
 744,0,3,"McNamee, Mr. Neal",-0.41203677443229225,1,0,376566,-0.39784359421694204,True,False,True
 745,1,3,"Stranden, Mr. Juho",0.12591212881674602,0,0,STON/O 2. 3101288,-0.6777261627619351,True,False,True
 746,0,1,"Crosby, Capt. Edward Gifford",3.123056018347102,1,1,WE/P 5735,1.4817347560118186,True,False,True
@@ -762,7 +762,7 @@ PassengerId,Survived,Pclass,Name,Age,SibSp,Parch,Ticket,Fare,Sex_male,Embarked_Q
 761,0,3,"Garfirth, Mr. John",-0.10463740114712752,0,0,358585,-0.4526218339321701,True,False,True
 762,0,3,"Nirva, Mr. Iisakki Antino Aijo",0.8944105620296577,0,0,SOTON/O2 3101272,-0.7051152826195491,True,False,True
 763,1,3,"Barah, Mr. Hanna Assi",-0.719436147717457,0,0,2663,-0.7015478497580949,True,False,False
-764,1,1,"Carter, Mrs. William Ernest (Lucile Polk)",0.5101613454232019,1,2,113760,2.8574307607150793,False,False,True
+764,1,1,"Carter, Mrs. William Ernest (Lucile Polk)",0.5101613454232019,1,2,113760,2.8881369597604487,False,False,True
 765,0,3,"Eklund, Mr. Hans Linus",-1.0268355210026217,0,0,347074,-0.6828616227352379,True,False,True
 766,1,1,"Hogeboom, Mrs. John C (Anna Andrews)",1.6629089952425695,1,0,13502,1.7199618968933628,False,False,True
 767,0,1,"Brewe, Dr. Arthur Jackson",-0.10463740114712752,0,0,112379,0.40671180160046916,True,False,False
@@ -778,7 +778,7 @@ PassengerId,Survived,Pclass,Name,Age,SibSp,Parch,Ticket,Fare,Sex_male,Embarked_Q
 777,0,3,"Tobin, Mr. Roger",-0.10463740114712752,0,0,383121,-0.6837175327307882,True,True,False
 778,1,3,"Emanuel, Miss. Virginia Ethel",-1.8721837975368247,0,0,364516,-0.5219505435717555,False,False,True
 779,0,3,"Kilgannon, Mr. Thomas J",-0.10463740114712752,0,0,36865,-0.6841454877285634,True,True,False
-780,1,1,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",1.0481102486722402,0,1,24160,2.8574307607150793,False,False,True
+780,1,1,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",1.0481102486722402,0,1,24160,2.8881369597604487,False,False,True
 781,1,3,"Ayoub, Miss. Banoura",-1.2573850509664952,0,0,2687,-0.7015478497580949,False,False,False
 782,1,1,"Dick, Mrs. Albert Adrian (Vera Gillespie)",-0.9499856776813305,1,0,17474,1.0024251585035735,False,False,True
 783,0,1,"Long, Mr. Milton Clyde",-0.027787557825836348,0,0,113501,0.07804236330910114,True,False,True
@@ -801,7 +801,7 @@ PassengerId,Survived,Pclass,Name,Age,SibSp,Parch,Ticket,Fare,Sex_male,Embarked_Q
 800,0,3,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",0.04906228549545483,1,1,345773,-0.12224057564970128,False,False,True
 801,0,2,"Ponesell, Mr. Martin",0.35646165878061953,0,0,250647,-0.5039764336651963,True,False,True
 802,1,2,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",0.12591212881674602,1,1,C.A. 31921,-0.050344136023464485,False,False,True
-803,1,1,"Carter, Master. William Thornton II",-1.4110847376090776,1,2,113760,2.8574307607150793,True,False,True
+803,1,1,"Carter, Master. William Thornton II",-1.4110847376090776,1,2,113760,2.8881369597604487,True,False,True
 804,1,3,"Thomas, Master. Assad Alexander",-2.224156079948338,0,1,2625,-0.6574684849872474,True,False,False
 805,1,3,"Hedman, Mr. Oskar Arvid",-0.1814872444684187,0,0,347089,-0.7102507425928517,True,False,True
 806,0,3,"Johansson, Mr. Karl Johan",0.12591212881674602,0,0,347063,-0.6828616227352379,True,False,True
@@ -855,7 +855,7 @@ PassengerId,Survived,Pclass,Name,Age,SibSp,Parch,Ticket,Fare,Sex_male,Embarked_Q
 854,1,1,"Lines, Miss. Mary Conover",-1.0268355210026217,0,1,PC 17592,0.39986452163606556,False,False,True
 855,0,2,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",1.1249600919935314,1,0,244252,-0.05890323597896886,False,False,True
 856,1,3,"Aks, Mrs. Sam (Leah Rosen)",-0.8731358343600393,0,1,392091,-0.6289392930155602,False,False,True
-857,1,1,"Wick, Mrs. George Dennick (Mary Hitchcock)",1.2018099353148226,1,1,36928,2.8574307607150793,False,False,True
+857,1,1,"Wick, Mrs. George Dennick (Mary Hitchcock)",1.2018099353148226,1,1,36928,2.8881369597604487,False,False,True
 858,1,1,"Daly, Mr. Peter Denis ",1.6629089952425695,0,0,113055,-0.04007321607685921,True,False,True
 859,1,3,"Baclini, Mrs. Solomon (Latifa Qurban)",-0.41203677443229225,0,3,2666,-0.2897147726590643,False,False,False
 860,0,3,"Razi, Mr. Raihed",-0.10463740114712752,0,0,2629,-0.7015478497580949,True,False,False
